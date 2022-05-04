@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a PhD student at the IDHEAP in Lausanne under the supervision of Giuliano Bonoli and Rafael Lalive. My personal webpage is here: [jkortner.github.io](https://jkortner.github.io).
+
 <!--
 **jkortner/jkortner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
