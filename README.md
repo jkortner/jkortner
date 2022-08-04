@@ -2,8 +2,6 @@
 
 I am a PhD student at the IDHEAP of the University of Lausanne under the supervision of Giuliano Bonoli and Rafael Lalive. I am broadly interested in the use of predictions in the social sciences and for public policy. Before starting my PhD, I worked as a data scientist in the Lufthansa Group and graduated with a MSc from the University of Konstanz.
 
-My personal webpage is here: [jkortner.github.io](https://jkortner.github.io).
-
 <!--
 **jkortner/jkortner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
