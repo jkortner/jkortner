@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a PhD student at the IDHEAP of the University of Lausanne. In my thesis projects, I study the interplay of algorithmic predictions and bureaucratic discretion, using administrative data, data from a field experiment, and causal machine learning.
+I am a PhD student at the IDHEAP of the University of Lausanne. In my thesis projects, I study the interplay of algorithms and bureaucratic discretion. 
 
 🌐 [jkortner.github.io](https://jkortner.github.io)
 
