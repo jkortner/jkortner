@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I am a PhD student at the IDHEAP of the University of Lausanne. In my thesis projects, I study the interplay of algorithms and bureaucratic discretion. 
-
 🌐 [jkortner.github.io](https://jkortner.github.io)
 
 <!--
